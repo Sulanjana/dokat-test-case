@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "status": 200,
+    "message": "ok"
+  },
+  "data": [
+    {
+      "thp_id": 1,
+      "thp_no": "0001/THP/DKT/IX/24",
+      "emp_id": 1,
+      "emp_name": "Jajang",
+      "emp_nik": "00001",
+      "allowance": "10000000",
+      "deduction": 2500000,
+      "thp_amount": 7500000
+    },
+    {
+      "thp_id": 2,
+      "thp_no": "0002/THP/DKT/IX/24",
+      "emp_id": 2,
+      "emp_name": "Imam",
+      "emp_nik": "00002",
+      "allowance": 8000000,
+      "deduction": 2500000,
+      "thp_amount": "5500000"
+    }
+  ]
+}
